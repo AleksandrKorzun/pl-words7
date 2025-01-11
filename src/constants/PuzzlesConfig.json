@@ -1,0 +1,143 @@
+{
+  "puzzleFeatureUnlockStartingLevel": 10,
+  "levelIntervalBetweenPieces": 2,
+  "puzzles": [
+    {
+      "puzzleId": 1,
+      "minLevel": 15,
+      "puzzleWord": "Cannonball",
+      "puzzleImage": "Cannonball.jpg",
+      "puzzleHint": "A type of dive into water that creates a big splash."
+    },
+    {
+      "puzzleId": 2,
+      "minLevel": 25,
+      "puzzleWord": "Ladybug",
+      "puzzleImage": "Ladybug.jpg",
+      "puzzleHint": "A small, colorful beetle, often red with black spots, known for eating pests."
+    },
+    {
+      "puzzleId": 3,
+      "minLevel": 35,
+      "puzzleWord": " Sweetpea",
+      "puzzleImage": "Sweetpea.jpg",
+      "puzzleHint": "A term of endearment or a flowering plant with fragrant blossoms."
+    },
+    {
+      "puzzleId": 4,
+      "minLevel": 45,
+      "puzzleWord": "Rocketship",
+      "puzzleImage": "Rocketship.jpg",
+      "puzzleHint": "A spacecraft designed for travel through space."
+    },
+    {
+      "puzzleId": 5,
+      "minLevel": 55,
+      "puzzleWord": "Hogwash",
+      "puzzleImage": "Hogwash.jpg",
+      "puzzleHint": "Means nonsense or worthless talk; something untrue or absurd."
+    },
+    {
+      "puzzleId": 6,
+      "minLevel": 65,
+      "puzzleWord": " Snowshoes",
+      "puzzleImage": "Snowshoes.jpg",
+      "puzzleHint": "Footwear that lets you walk on snow by spreading your weight."
+    },
+    {
+      "puzzleId": 7,
+      "minLevel": 75,
+      "puzzleWord": "Ragamuffin",
+      "puzzleImage": "Ragamuffin.jpg",
+      "puzzleHint": "A person, often a child, in shabby or ragged clothes."
+    },
+    {
+      "puzzleId": 8,
+      "minLevel": 85,
+      "puzzleWord": "Hookworm",
+      "puzzleImage": "Hookworm.jpg",
+      "puzzleHint": "A parasite that infects the intestines, causing anemia."
+    },
+    {
+      "puzzleId": 9,
+      "minLevel": 95,
+      "puzzleWord": " Crackpot",
+      "puzzleImage": "Crackpot.jpg",
+      "puzzleHint": "Refers to someone with eccentric, unusual, or impractical ideas."
+    },
+    {
+      "puzzleId": 10,
+      "minLevel": 105,
+      "puzzleWord": "Darkroom",
+      "puzzleImage": "Darkroom.jpg",
+      "puzzleHint": "A lightproof room for developing photographic film and prints."
+    },
+    {
+      "puzzleId": 11,
+      "minLevel": 115,
+      "puzzleWord": "Warlock",
+      "puzzleImage": "Warlock.jpg",
+      "puzzleHint": "A man practitioner of magic or witchcraft, often linked to sorcery."
+    },
+    {
+      "puzzleId": 12,
+      "minLevel": 125,
+      "puzzleWord": " Mammoth",
+      "puzzleImage": "Mammoth.jpg",
+      "puzzleHint": "A large, extinct elephant-like animal with long tusks and a furry coat."
+    },
+    {
+      "puzzleId": 13,
+      "minLevel": 135,
+      "puzzleWord": "Claptrap",
+      "puzzleImage": "Claptrap.jpg",
+      "puzzleHint": "Refers to absurd talk, often intended to impress or deceive."
+    },
+    {
+      "puzzleId": 14,
+      "minLevel": 145,
+      "puzzleWord": "Nutrients",
+      "puzzleImage": "Nutrients.jpg",
+      "puzzleHint": "Substances that provide essential nourishment for growth and health."
+    },
+    {
+      "puzzleId": 15,
+      "minLevel": 155,
+      "puzzleWord": " Groundhog",
+      "puzzleImage": "Groundhog.jpg",
+      "puzzleHint": "A burrowing rodent known for predicting spring."
+    },
+    {
+      "puzzleId": 16,
+      "minLevel": 165,
+      "puzzleWord": " Thunderstruck",
+      "puzzleImage": "Thunderstruck.jpg",
+      "puzzleHint": "Extremely surprised, shocked, or awed."
+    },
+    {
+      "puzzleId": 17,
+      "minLevel": 175,
+      "puzzleWord": "Bobcat",
+      "puzzleImage": "Bobcat.jpg",
+      "puzzleHint": "A wild cat with a short tail, tufted ears, and spotted fur."
+    },
+    {
+      "puzzleId": 18,
+      "minLevel": 185,
+      "puzzleWord": "Lamebrain",
+      "puzzleImage": "Lamebrain.jpg",
+      "puzzleHint": "A slang term for a foolish or unintelligent person."
+    },
+    {
+      "puzzleId": 19,
+      "minLevel": 195,
+      "puzzleWord": " Deadwood",
+      "puzzleImage": "Deadwood.jpg",
+      "puzzleHint": "People or things that are unproductive or no longer useful."
+    }
+  ],
+  "ratingCriteria": {
+    "2": 5,
+    "3": 2
+  }
+}
